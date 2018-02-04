@@ -1,2 +1,2 @@
 # excursion
-[*Practice*]
+*Practice*
